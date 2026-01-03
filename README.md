@@ -25,8 +25,6 @@ This installs:
 
 ## How to Run the Server
 
-### Option 1: Claude Desktop Integration (Recommended)
-
 This is the easiest way to use the server with Claude Desktop:
 
 1. **Copy the configuration file**:
@@ -56,8 +54,6 @@ This is the easiest way to use the server with Claude Desktop:
 4. **Restart Claude Desktop** - it will automatically launch the Blender MCP server when you start a conversation.
 
 5. **Start Experimenting**: Ask Claude to create a cube in Blender. You should see Blender open and a cube appear!
-
-### Option 2: Manual Launch (For Testing)
 
 ## List of Tools Implemented
 
